@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526939808 source:/home/reddy/URI/V_BuscandoTexto/main.cpp
+	<ctype.h>
+	<iostream>
+	<vector>
+

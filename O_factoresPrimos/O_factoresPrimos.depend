@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526855746 source:/home/reddy/C++Uva/Test_jv_UMSA/O_factoresPrimos/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526875107 source:/home/reddy/C++Uva/Test_jv_UMSA/Q_Matrizprima/main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<math.h>
+
